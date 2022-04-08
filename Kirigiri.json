@@ -2,7 +2,8 @@
     "manifest": {
         "author": "OmegaSunkey#9366",
         "name": "Kirigiri",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/OmegaSunkey\/Kirigiri-Theme\/main\/Kirigiri.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/769765107244072981\/961411041697361970\/IMG_20220406_184336.png",
